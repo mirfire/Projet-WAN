@@ -1,5 +1,8 @@
 ---
 title: Accueil
+taxonomy:
+    category:
+        - docs
 ---
 
 Bienvenue sur les pages de documentation du réseau Telredor.
