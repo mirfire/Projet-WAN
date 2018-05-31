@@ -1,5 +1,8 @@
 ---
 title: Routeurs
+taxonomy:
+    category:
+        - docs
 ---
 
 Les routeurs utilisés sont: 
