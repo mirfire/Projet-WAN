@@ -5,8 +5,6 @@ taxonomy:
         - docs
 ---
 
-Les routeurs utilisés sont:
-
 ## [CISCO 2691](https://www.cnet.com/products/cisco-2691-router-rack-mountable-series/specs/):
 
 * Utilisé dans les LANs en tant que *Core Router* et *Customer's Edge Router*.
