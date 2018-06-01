@@ -1,9 +1,12 @@
 ---
 title: Introduction
+media_order: SupraTelecom.png
 taxonomy:
     category:
         - docs
 ---
+
+![](Telredor.png)![](SupraTelecom.png)
 
 Bienvenue sur la documentation du réseau de l'entreprise Telredor.
 
