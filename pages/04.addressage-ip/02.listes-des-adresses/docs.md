@@ -12,3 +12,5 @@ Cette section contient une liste exhaustive de toutes les adresses IP et du déc
 |  10.3.0.0 |  /16 |  Unité de stockage |
 |  10.200.0.0 |  /16 |  Bureaux de proximité |
 |  172.16.0.0 |  /24 |  Backbone SupraTelecom |
+
+!!! Le réseau pour les bureaux de proximité est bien un /16 mais il est découpé, chaque bureau a un /24.
