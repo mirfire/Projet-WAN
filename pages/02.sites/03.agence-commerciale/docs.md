@@ -10,7 +10,7 @@ Site hébergeant le service commercial de l'entreprise. Interconnecté au résea
 
 ### Routeurs
 
-* [CISCO 2691](https://wan.itdoesnt.work/materiel/routeurs#cisco-2691): routeurs de coeur de réseau.
+* [CISCO 2691](/materiel/routeurs#cisco-2691): routeurs de coeur de réseau.
 
 ### Switches
 
@@ -30,5 +30,5 @@ Site hébergeant le service commercial de l'entreprise. Interconnecté au résea
 
 ## Contrats
 
-* [Liens](https://wan.itdoesnt.work/contrats/liens#agence-commerciale).
-* [Interconnexions](https://wan.itdoesnt.work/contrats/interconnexions#agence-commerciale).
+* [Liens](/contrats/liens#agence-commerciale).
+* [Interconnexions](/contrats/interconnexions#agence-commerciale).
