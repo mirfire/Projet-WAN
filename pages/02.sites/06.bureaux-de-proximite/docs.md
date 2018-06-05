@@ -12,7 +12,7 @@ Bureau de proximité permettant aux employés de travailler à distance sur les 
 
 ### Routeurs
 
-* [CISCO 2691](/materiel/routeurs#cisco-2691): routeurs de coeur de réseau.
+* Aucun.
 
 ### Switches
 
@@ -29,6 +29,10 @@ Bureau de proximité permettant aux employés de travailler à distance sur les 
 ## Adressage
 
 [Plan d'adressage](/addressage-ip/listes-des-adresses/bureaux-de-proximite).
+
+## Protocole de Routage
+
+Les bureaux de proximités n'ont pas de routeur interne.
 
 ## Contrats
 
