@@ -9,8 +9,9 @@ published: true
 |  :-----          |  :-----          |  :-----          |  :-----          |
 |  Fibre 10 mb/s |  620 |  4 |  29 760 |
 |  Fibre 100 mb/s |  1350 |  1 |  16 200 |
-<td colspan=1>|  Prix total HT |  45 960 € |
-<td colspan=1>|  Prix total TTC |  55 152 € |
+<td colspan=1>|  **Prix total HT** |  **45 960.00 €** |
+<td colspan=1>  | *Taxes* | *9 192.00 €* |
+<td colspan=1>|  **Prix total TTC** |  **55 152.00 €** |
 
 Caractéristiques de l'offre :
 * Débit garanti
