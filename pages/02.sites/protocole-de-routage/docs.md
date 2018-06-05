@@ -11,6 +11,8 @@ Protocole de routage : Routage statique
 
 Protocole de routage : RIPv2
 
+!!! L'interface **f0/1** du routeur "UP-C3" est configuré en **passive-interface**.
+
 #### Usine de production
 
 Protocole de routage : OSPF  
@@ -28,3 +30,5 @@ Numéro de processus : 1
 #### Unité de stockage
 
 Protocle de routage : EIGRP
+
+!!! L'interface **f0/1** du routeur "UP-C3" est configuré en **passive-interface**.
