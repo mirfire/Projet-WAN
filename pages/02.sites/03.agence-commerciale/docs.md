@@ -30,7 +30,7 @@ Site hébergeant le service commercial de l'entreprise. Interconnecté au résea
 
 ## Protocole de routage
 
-Le protocole de routage utilisé est RIPv2.
+Le protocole de routage utilisé est **RIPv2**.
 
 !!! L'interface **f0/1** du routeur "UP-C3" est configuré en **passive-interface** afin que le LAN ne reçoive pas de messages RIPv2.
 
