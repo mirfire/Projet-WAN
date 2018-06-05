@@ -32,7 +32,7 @@ Numéro de processus : 1
 |  10.2.0.3 |  UP-C3 |
 |  10.2.0.4 |  UP-CE |
 
-!!! L'interface du routeur "UP-C3" est configuré en **passive-interface**.
+!!! L'interface **f0/1** du routeur "UP-C3" est configuré en **passive-interface**.
 
 ##### Unité de stockage
 
