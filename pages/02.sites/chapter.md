@@ -9,4 +9,4 @@ Liste de tous les sites de l'entreprise Telredor, avec les informations du rése
 
 ![](Sch%C3%A9ma.PNG)
 
-! La liste des adresses détaillée est disponible [ici](/addressage-ip/listes-des-adresses)
+! La liste détaillée des adresses est disponible [ici](/addressage-ip/listes-des-adresses)
