@@ -8,7 +8,7 @@ title: Interconnexions
 |  :-----          |  :-----          |  :-----          |  :-----          |
 |  VPN MPLS |  15 |  4 |  720 |
 |  Compte VPN MPLS Nomade |  16 |  0 |  0 |
-<td colspan=3> **TOTAL** | 720 |
+<td colspan=2> | **TOTAL** | 720 |
 
 ### Direction générale
 
