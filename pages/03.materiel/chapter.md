@@ -8,5 +8,6 @@ taxonomy:
 # Liste du matériel
 
 * [Routeurs](/materiel/routeurs)
+* [Pare-Feu](/materiel/pare-feu)
 * [Switches](/materiel/switches)
 * [Serveurs](/materiel/serveurs)
