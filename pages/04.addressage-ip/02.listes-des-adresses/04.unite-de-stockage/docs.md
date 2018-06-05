@@ -1,5 +1,6 @@
 ---
 title: 'Unité de stockage'
+media_order: 'Unité de stockage.PNG'
 ---
 
 ##10.3.0.0/16
@@ -13,3 +14,5 @@ title: 'Unité de stockage'
 |  10.3.0.16 |  /30 |  US-C3 ↔ US-C2 |
 |  10.3.0.20 |  /30 |  US-CE ↔ US-C2 |
 |  10.3.1.0 |  /24 |  LAN |
+
+![](Unit%C3%A9%20de%20stockage.PNG)
