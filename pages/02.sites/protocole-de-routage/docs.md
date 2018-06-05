@@ -15,6 +15,7 @@ Protocole de routage : RIPv2
 
 Protocole de routage : OSPF
 Numéro de processus : 1
+
 |  Router-id  |  Routeur  |
 |  :-----          |  :-----          |
 |  10.2.0.1 |  UP-C1 |
