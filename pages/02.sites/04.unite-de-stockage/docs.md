@@ -4,7 +4,7 @@ title: 'Unité de stockage'
 
 ## Description
 
-Site hébergeant le service commercial de l'entreprise. Interconnecté au réseau de l'entreprise via le VPN MPLS.
+Site stockant les produits vendu par l'entreprise. Interconnecté au réseau de l'entreprise via le VPN MPLS.
 
 ## Matériel Utilisé:
 
