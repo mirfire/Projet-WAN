@@ -8,7 +8,8 @@ title: Interconnexions
 |  :-----          |  :-----          |  :-----          |  :-----          |
 |  VPN MPLS |  15 |  4 |  720 |
 |  Compte VPN MPLS Nomade |  16 |  0 |  0 |
-<td colspan=1>  | **TOTAL** | 720 |
+<td colspan=1>  | **TOTAL HT** | **720.00€** |
+<td colspan=1>  | **TOTAL TTC** | **864.00€** |
 
 ### Direction générale
 
