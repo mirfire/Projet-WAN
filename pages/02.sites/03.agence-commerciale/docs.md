@@ -28,6 +28,10 @@ Site hébergeant le service commercial de l'entreprise. Interconnecté au résea
 
 [Plan d'adressage](/addressage-ip/listes-des-adresses/agence-commerciale).
 
+## Protocole de routage
+
+Le protocole de routage utilisé est RIPv2.
+
 ## Contrats
 
 * [Liens](/contrats/liens#agence-commerciale).
