@@ -6,8 +6,8 @@ title: Interconnexions
 
 |  Objet  |  Prix mensuel HT (€)  |  Quantité  |  Prix annuel HT (€)  |
 |  :-----          |  :-----          |  :-----          |  :-----          |
-|  VPN MPLS |  15 |  4 |  720 |
-|  Compte VPN MPLS Nomade |  16 |  0 |  0 |
+|  VPN MPLS |  15.00€ |  4 |  720.00€v |
+|  Compte VPN MPLS Nomade |  16.00€ |  0 |  0.00€ |
 <td colspan=1>  | **TOTAL HT** | **720.00€** |
 <td colspan=1>  | *Taxes* | *144.00€* |
 <td colspan=1>  | **TOTAL TTC** | **864.00€** |
