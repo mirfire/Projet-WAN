@@ -2,6 +2,8 @@
 title: 'Bureaux de proximité'
 ---
 
+##10.200.0.0/16
+
 |  Sous-réseau  |  Adresse  |  Utilisation  |
 |  :-----          |  :-----          |  :-----          |
 |  10.200.1.0 |  10.200.1.254 |  Box |
