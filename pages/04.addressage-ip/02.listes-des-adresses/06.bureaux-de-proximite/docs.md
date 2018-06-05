@@ -2,12 +2,11 @@
 title: 'Bureaux de proximité'
 ---
 
-|  Sous-réseau  |  CIDR  |  Lien  |
+|  Sous-réseau  |  Adresse  |  Utilisation  |
 |  :-----          |  :-----          |  :-----          |
-|  10.0.0.0 |  /30 |  DG-CE ↔ PE1 |
-|  10.0.0.4 |  /30 |  DG-CE ↔ DG-C1 |
-|  10.0.0.8 |  /30 |  DG-C2 ↔ DG-C1 |
-|  10.0.0.12 |  /30 |  DG-C3 ↔ DG-C1 |
-|  10.0.0.16 |  /30 |  DG-C3 ↔ DG-C2 |
-|  10.0.0.20 |  /30 |  DG-C2 ↔ DG-BOX |
-|  10.0.1.0 |  /24 |  LAN |
+|  10.200.1.0 |  10.200.1.254 |  Box |
+|  10.200.2.0 |  10.200.2.254 |  Box |
+|  10.200.x.0 |  10.200.x.254 |  Box |
+|  10.200.254.0 |  10.200.254.254 |  Box |
+
+!!! Toute la plage d'adresse **10.200.0.0/16** est réservée aux bureaux de proximité. Ce réseau est découpé en **/24** : un par bureau de proximité.
