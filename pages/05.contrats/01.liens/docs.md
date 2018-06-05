@@ -12,6 +12,10 @@ published: true
 |  Prix total HT |  45 960 € |
 |  Prix total TTC |  55 152 € |
 
+Caractéristiques de l'offre :
+* Débit garanti
+* GTR 4H - 7 jours 7 - 24 heures sur 24
+
 ### Direction générale
 
 ### Agence commerciale
