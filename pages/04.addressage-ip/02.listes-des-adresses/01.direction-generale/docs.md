@@ -1,5 +1,6 @@
 ---
 title: 'Direction générale'
+media_order: 'Direction générale.PNG'
 ---
 
 ##10.0.0.0/16
@@ -14,3 +15,5 @@ title: 'Direction générale'
 |  10.0.0.20 |  /30 |  DG-C2 ↔ DG-BOX |
 |  10.0.0.24 |  /30 |  DG-CE ↔ DG-C2 |
 |  10.0.1.0 |  /24 |  LAN |
+
+![](Direction%20g%C3%A9n%C3%A9rale.PNG)
