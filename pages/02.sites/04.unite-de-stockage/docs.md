@@ -28,6 +28,11 @@ Site stockant les produits vendu par l'entreprise. Interconnecté au réseau de 
 
 [Plan d'adressage](/addressage-ip/listes-des-adresses/unite-de-stockage).
 
+## Protocole de routage
+
+Le protocole de routage utilisé est EIGRP.  
+Le numéro de processus est : 1.
+
 ## Contrats
 
 * [Liens](/contrats/liens#unite-de-stockage).
