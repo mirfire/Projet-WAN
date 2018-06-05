@@ -2,6 +2,8 @@
 title: 'Usine de production'
 ---
 
+##10.2.0.0/16
+
 |  Sous-réseau  |  CIDR  |  Lien  |
 |  :-----          |  :-----          |  :-----          |
 |  10.2.0.0 |  /30 |  UP-CE ↔ PE1 |
