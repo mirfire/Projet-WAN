@@ -7,7 +7,7 @@ media_order: Schéma.PNG
 
 Liste de tous les sites de l'entreprise Telredor, avec les informations du réseau pour chacun.  
 
-* [Direction générale]()
+* [Direction générale](/sites/direction-generale)
 * Agence commerciale
 * Usine de production
 * Unité de stockage
