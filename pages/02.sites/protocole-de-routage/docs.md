@@ -13,8 +13,7 @@ Protocole de routage : RIPv2
 
 #### Usine de production
 
-Protocole de routage : OSPF
-
+Protocole de routage : OSPF  
 Numéro de processus : 1
 
 |  Router-id  |  Routeur  |
