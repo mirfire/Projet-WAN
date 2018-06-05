@@ -18,11 +18,20 @@ Caractéristiques de l'offre :
 
 ### Direction générale
 
+* Une connexion fibre 10 mb/s
+* Une connexion fibre 100 mb/s
+
 ### Agence commerciale
+
+* Une connexion fibre 10 mb/s
 
 ### Usine de production
 
+* Une connexion fibre 10 mb/s
+
 ### Unité de stockage
+
+* Une connexion fibre 10 mb/s
 
 ### Bureaux de proximité
 
