@@ -2,6 +2,8 @@
 title: 'Direction générale'
 ---
 
+##10.0.0.0/16
+
 |  Sous-réseau  |  CIDR  |  Lien  |
 |  :-----          |  :-----          |  :-----          |
 |  10.0.0.0 |  /30 |  DG-CE ↔ PE1 |
