@@ -1,6 +1,5 @@
 ---
 title: 'Listes des adresses'
-media_order: Schéma.PNG
 ---
 
 Cette section contient une liste exhaustive de toutes les adresses IP et du découpage des réseaux.
