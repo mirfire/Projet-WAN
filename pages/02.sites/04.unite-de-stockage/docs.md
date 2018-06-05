@@ -26,9 +26,9 @@ Site stockant les produits vendu par l'entreprise. Interconnecté au réseau de 
 
 ## Adressage
 
-[Plan d'adressage](/addressage-ip/listes-des-adresses/agence-commerciale).
+[Plan d'adressage](/addressage-ip/listes-des-adresses/unite-de-stockage).
 
 ## Contrats
 
-* [Liens](https://wan.itdoesnt.work/contrats/liens#agence-commerciale).
-* [Interconnexions](https://wan.itdoesnt.work/contrats/interconnexions#agence-commerciale).
+* [Liens](https://wan.itdoesnt.work/contrats/liens#unite-de-stockage).
+* [Interconnexions](https://wan.itdoesnt.work/contrats/interconnexions#unite-de-stockage).
