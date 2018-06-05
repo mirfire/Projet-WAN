@@ -29,6 +29,10 @@ Siège social de l'entreprise. Héberge les différents serveurs nécessaires au
 
 [Plan d'adressage](/addressage-ip/listes-des-adresses/direction-generale).
 
+## Protocole de routage
+
+Le protocole de routage utilisé est le routage statique.
+
 ## Contrats
 
 * [Liens](/contrats/liens#direction-g%C3%A9n%C3%A9rale).
