@@ -33,6 +33,8 @@ Site stockant les produits vendu par l'entreprise. Interconnecté au réseau de 
 Le protocole de routage utilisé est EIGRP.  
 Le numéro de processus est : 1.
 
+!!! L'interface **f0/1** du routeur "UP-C3" est configuré en **passive-interface** afin que le LAN ne reçoive pas de messages EIGRP.
+
 ## Contrats
 
 * [Liens](/contrats/liens#unite-de-stockage).
