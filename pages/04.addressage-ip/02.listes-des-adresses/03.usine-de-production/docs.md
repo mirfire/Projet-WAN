@@ -1,5 +1,6 @@
 ---
 title: 'Usine de production'
+media_order: 'Usine de production.PNG'
 ---
 
 ##10.2.0.0/16
@@ -13,3 +14,5 @@ title: 'Usine de production'
 |  10.2.0.16 |  /30 |  UP-C3 ↔ UP-C2 |
 |  10.2.0.20 |  /30 |  UP-CE ↔ UP-C2 |
 |  10.2.1.0 |  /24 |  LAN |
+
+![](Usine%20de%20production.PNG)
