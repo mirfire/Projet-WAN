@@ -1,5 +1,5 @@
 ---
-title: 'Protocoles de routage'
+title: 'NProtocoles de routage'
 visible: true
 ---
 
@@ -29,6 +29,7 @@ Numéro de processus : 1
 
 #### Unité de stockage
 
-Protocle de routage : EIGRP
+Protocle de routage : EIGRP  
+Numéro de processus : 1
 
 !!! L'interface **f0/1** du routeur "UP-C3" est configuré en **passive-interface**.
