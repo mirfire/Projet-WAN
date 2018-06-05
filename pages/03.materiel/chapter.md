@@ -7,4 +7,4 @@ taxonomy:
 
 # Liste du matériel
 
-* Routeurs
+* [Routeurs](/materiel/routeurs)
