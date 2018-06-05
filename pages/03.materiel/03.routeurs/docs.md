@@ -5,6 +5,10 @@ taxonomy:
         - docs
 ---
 
+## Routeurs Cisco
+
+!!! Pour l'instant, seule la marque Cisco est utilisée au sein de l'entreprise.
+
 ### [CISCO 2691](https://www.cnet.com/products/cisco-2691-router-rack-mountable-series/specs/):
 
 * Utilisé dans les LANs en tant que *Core Router* et *Customer's Edge Router*.
