@@ -10,7 +10,7 @@ Site stockant les produits vendu par l'entreprise. Interconnecté au réseau de 
 
 ### Routeurs
 
-* [CISCO 2691](https://wan.itdoesnt.work/materiel/routeurs#cisco-2691): routeurs de coeur de réseau.
+* [CISCO 2691](/materiel/routeurs#cisco-2691): routeurs de coeur de réseau.
 
 ### Switches
 
@@ -30,5 +30,5 @@ Site stockant les produits vendu par l'entreprise. Interconnecté au réseau de 
 
 ## Contrats
 
-* [Liens](https://wan.itdoesnt.work/contrats/liens#unite-de-stockage).
-* [Interconnexions](https://wan.itdoesnt.work/contrats/interconnexions#unite-de-stockage).
+* [Liens](/contrats/liens#unite-de-stockage).
+* [Interconnexions](/contrats/interconnexions#unite-de-stockage).
