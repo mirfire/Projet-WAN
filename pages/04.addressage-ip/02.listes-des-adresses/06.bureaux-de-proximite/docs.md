@@ -1,5 +1,6 @@
 ---
 title: 'Bureaux de proximité'
+media_order: 'Bureau de proximité.PNG'
 ---
 
 ##10.200.0.0/16
@@ -12,3 +13,5 @@ title: 'Bureaux de proximité'
 |  10.200.254.0 |  10.200.254.254 |  Box |
 
 !!! Toute la plage d'adresse **10.200.0.0/16** est réservée aux bureaux de proximité. Ce réseau est découpé en **/24** : un par bureau de proximité.
+
+![](Bureau%20de%20proximit%C3%A9.PNG)
