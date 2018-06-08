@@ -1,5 +1,8 @@
 ---
 title: Interconnexions
+taxonomy:
+    category:
+        - docs
 ---
 
 ## Grille de Prix
