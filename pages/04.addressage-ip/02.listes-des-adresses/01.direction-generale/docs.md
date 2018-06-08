@@ -1,6 +1,9 @@
 ---
 title: 'Direction générale'
 media_order: 'Direction générale.PNG'
+taxonomy:
+    category:
+        - docs
 ---
 
 ##10.0.0.0/16
