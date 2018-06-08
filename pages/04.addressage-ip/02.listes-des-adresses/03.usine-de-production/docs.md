@@ -1,6 +1,9 @@
 ---
 title: 'Usine de production'
 media_order: 'Usine de production.PNG'
+taxonomy:
+    category:
+        - docs
 ---
 
 ##10.2.0.0/16
