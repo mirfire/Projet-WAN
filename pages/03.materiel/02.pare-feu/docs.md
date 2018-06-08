@@ -1,5 +1,8 @@
 ---
 title: Pare-Feu
+taxonomy:
+    category:
+        - docs
 ---
 
 ### Pare-Feu PfSense
