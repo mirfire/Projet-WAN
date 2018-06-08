@@ -1,5 +1,8 @@
 ---
 title: 'Règles & Informations'
+taxonomy:
+    category:
+        - docs
 ---
 
 L'adressage du réseau a été fait en suivant quatre règles :
