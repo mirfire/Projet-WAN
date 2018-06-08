@@ -1,6 +1,9 @@
 ---
 title: 'Bureaux de proximité'
 media_order: 'Bureau de proximité.PNG'
+taxonomy:
+    category:
+        - docs
 ---
 
 ##10.200.0.0/16
