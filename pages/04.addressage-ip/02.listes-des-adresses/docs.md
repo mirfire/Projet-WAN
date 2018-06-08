@@ -1,5 +1,8 @@
 ---
 title: 'Listes des adresses'
+taxonomy:
+    category:
+        - docs
 ---
 
 Cette section contient une liste exhaustive de toutes les adresses IP et du découpage des réseaux.
