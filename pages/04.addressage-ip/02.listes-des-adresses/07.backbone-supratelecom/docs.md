@@ -1,6 +1,9 @@
 ---
 title: 'Backbone SupraTelecom'
 media_order: 'Backbone SupraTelecom.PNG'
+taxonomy:
+    category:
+        - docs
 ---
 
 ## 172.16.0.0/24
