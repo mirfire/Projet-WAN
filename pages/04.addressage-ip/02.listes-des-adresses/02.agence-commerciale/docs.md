@@ -1,6 +1,9 @@
 ---
 title: 'Agence commerciale'
 media_order: 'Agence commerciale.PNG'
+taxonomy:
+    category:
+        - docs
 ---
 
 ##10.1.0.0/16
