@@ -1,6 +1,9 @@
 ---
 title: 'Unité de stockage'
 media_order: 'Unité de stockage.PNG'
+taxonomy:
+    category:
+        - docs
 ---
 
 ##10.3.0.0/16
