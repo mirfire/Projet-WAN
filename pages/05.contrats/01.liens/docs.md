@@ -1,6 +1,9 @@
 ---
 title: Liens
 published: true
+taxonomy:
+    category:
+        - docs
 ---
 
 ## Grille de Prix
